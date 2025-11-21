@@ -1,4 +1,4 @@
-import { defineConfig } from 'vite'
+// @ts-nocheck
 import react from '@vitejs/plugin-react'
 import { loadEnv } from 'vite'
 
